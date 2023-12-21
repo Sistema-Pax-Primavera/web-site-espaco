@@ -1,0 +1,430 @@
+@media (max-width: 2500px) {
+  .container-odontologia {
+    width: 100%;
+    background-image: url("../../imagens/background11.png");
+    height: 800px;
+    display: flex;
+    background-size: 100%;
+    align-items: center;
+    display: flex;
+    background-repeat: no-repeat;
+    flex-direction: column;
+    align-items: start;
+    padding: 100px;
+    justify-content: center;
+  }
+
+  .container-odontologia h1{
+    display: none;
+  }
+
+  .container-odontologia h2 {
+    font-weight: 800;
+    color: #006b2c;
+    font-size: 50px;
+    font-family: "Montserrat", Arial, Helvetica, sans-serif;
+  }
+
+  .container-odontologia label {
+    width: 35%;
+    color: #006b2c;
+    font-size: 20px;
+    font-family: "Montserrat", Arial, Helvetica, sans-serif;
+  }
+
+  .container-odontologia button {
+    width: 20%;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    font-family: "Montserrat", Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 800;
+    background: rgb(0, 166, 81);
+    background: linear-gradient(
+      66deg,
+      rgba(0, 166, 81, 1) 0%,
+      rgba(141, 198, 63, 1) 71%
+    );
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+  }
+
+  .tratamentos-odontologicos {
+    width: 100%;
+    background-image: url("../../imagens/background12.png");
+    height: 750px;
+    background-size: 100%;
+    align-items: center;
+    display: flex;
+    background-repeat: no-repeat;
+    align-items: start;
+    padding: 100px;
+    justify-content: center;
+  }
+
+  .odontologicos {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .odontologicos img {
+    width: 60%;
+  }
+
+  .odontologicos2 {
+    width: 50%;
+  }
+
+  .tipos-odonto {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    color: #006b2c;
+  }
+  .odontologicos2 h1 {
+    font-family: "Montserrat", Arial, Helvetica, sans-serif;
+    color: #006b2c;
+    font-size: 50px;
+    font-weight: 800;
+  }
+
+  .tipos-odonto {
+    display: flex;
+    gap: 10px;
+  }
+
+  .right {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .right label {
+    font-family: "Montserrat", Arial, Helvetica, sans-serif;
+    color: #006b2c;
+    font-size: 20px;
+    font-weight: 600;
+  }
+
+  .avaliação {
+    width: 100%;
+    background-image: url("../../imagens/background14.png");
+    height: 700px;
+    display: flex;
+    background-size: 100%;
+    align-items: center;
+    display: flex;
+    background-repeat: no-repeat;
+    align-items: center;
+    padding: 100px;
+    justify-content: center;
+  }
+
+  .container-avaliacao {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    background-color: rgba(6, 80, 41, 0.5);
+    padding: 50px;
+  }
+
+  .container-avaliacao h1 {
+    font-family: "Montserrat", Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: 800;
+    font-size: 50px;
+  }
+
+  .container-avaliacao label {
+    text-align: center;
+    width: 60%;
+    font-family: "Montserrat", Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 20px;
+  }
+
+  .container-avaliacao button {
+    width: 20%;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    font-family: "Montserrat", Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 800;
+    background: rgb(0, 166, 81);
+    background: linear-gradient(
+      66deg,
+      rgba(0, 166, 81, 1) 0%,
+      rgba(141, 198, 63, 1) 71%
+    );
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+  }
+}
+
+@media (max-width: 1500px) {
+  .container-odontologia {
+    width: 100%;
+    background-image: url("../../imagens/background11.png");
+    height: 600px;
+    display: flex;
+    background-size: 100%;
+    align-items: center;
+    display: flex;
+    background-repeat: no-repeat;
+    flex-direction: column;
+    align-items: start;
+    padding: 100px;
+    justify-content: center;
+  }
+
+  .container-odontologia h2 {
+    display: none;
+  }
+  .container-odontologia h1 {
+    display: flex;
+    font-weight: 800;
+    color: #006b2c;
+    font-size: 50px;
+    font-family: "Montserrat", Arial, Helvetica, sans-serif;
+  }
+
+  .container-odontologia label {
+    width: 40%;
+    color: #006b2c;
+    font-size: 15px;
+    font-family: "Montserrat", Arial, Helvetica, sans-serif;
+  }
+
+  .container-odontologia button {
+    width: 20%;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    font-family: "Montserrat", Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 800;
+    background: rgb(0, 166, 81);
+    background: linear-gradient(
+      66deg,
+      rgba(0, 166, 81, 1) 0%,
+      rgba(141, 198, 63, 1) 71%
+    );
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+  }
+
+  .tratamentos-odontologicos {
+    width: 100%;
+    background-image: url("../../imagens/background12.png");
+    height: 600px;
+    background-size: 100%;
+    align-items: center;
+    display: flex;
+    background-repeat: no-repeat;
+    align-items: start;
+    padding: 100px;
+    justify-content: center;
+  }
+
+  .odontologicos {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .odontologicos img {
+    width: 70%;
+  }
+
+  .odontologicos2 {
+    width: 50%;
+  }
+
+  .tipos-odonto {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    color: #006b2c;
+  }
+  .odontologicos2 h1 {
+    font-family: "Montserrat", Arial, Helvetica, sans-serif;
+    color: #006b2c;
+    font-size: 35px;
+    font-weight: 800;
+  }
+
+  .tipos-odonto {
+    display: flex;
+    gap: 10px;
+  }
+
+  .right {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .right label {
+    font-family: "Montserrat", Arial, Helvetica, sans-serif;
+    color: #006b2c;
+    font-weight: 600;
+  }
+
+  .avaliação {
+    width: 100%;
+    background-image: url("../../imagens/background14.png");
+    height: 600px;
+    display: flex;
+    background-size: 100%;
+    align-items: center;
+    display: flex;
+    background-repeat: no-repeat;
+    align-items: center;
+    padding: 100px;
+    justify-content: center;
+  }
+
+  .container-avaliacao {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    background-color: rgba(6, 80, 41, 0.5);
+    padding: 50px;
+  }
+
+  .container-avaliacao h1 {
+    font-family: "Montserrat", Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: 800;
+  }
+
+  .container-avaliacao label {
+    text-align: center;
+    width: 70%;
+    font-family: "Montserrat", Arial, Helvetica, sans-serif;
+    color: white;
+  }
+
+  .container-avaliacao button {
+    width: 35%;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    font-family: "Montserrat", Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 800;
+    background: rgb(0, 166, 81);
+    background: linear-gradient(
+      66deg,
+      rgba(0, 166, 81, 1) 0%,
+      rgba(141, 198, 63, 1) 71%
+    );
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+  }
+}
+
+@media (max-width: 500px) {
+  .container-odontologia {
+    background-size: 100%;
+    background-image: url("../../imagens/background-06-mobile.png");
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    align-items: center;
+  }
+
+  .container-odontologia h1 {
+    font-size: 35px;
+    margin-top: 130px;
+    text-align: center;
+  }
+
+  .container-odontologia label {
+    text-align: center;
+    width: 90%;
+    background-color: rgba(229, 238, 233, 0.5);
+    padding: 5px;
+    border-radius: 5px;
+    font-weight: 500;
+  }
+
+  .container-odontologia button {
+    width: 70%;
+  }
+
+  .odontologicos img {
+    width: 100%;
+  }
+
+  .tratamentos-odontologicos {
+    background-size: 100%;
+    background-image: url("../../imagens/background06-mobile.png");
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    height: 700px;
+    align-items: center;
+  }
+
+  .odontologicos2 {
+    width: 100%;
+  }
+
+  .odontologicos2 h1 {
+    text-align: center;
+    width: 100%;
+  }
+
+  .tipos-odonto {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    align-content: center;
+  }
+
+  .avaliação {
+    background-image: url("../../imagens/background-07-mobile.png");
+    padding: 50px;
+    height: 350px;
+    width: 100%;
+  }
+
+  .container-avaliacao {
+    width: 100%;
+    padding: 10px;
+  }
+
+  .container-avaliacao label {
+    width: 100%;
+  }
+
+  .container-avaliacao button {
+    width: 80%;
+  }
+}
